@@ -37,5 +37,3 @@ This project predicts **health insurance premiums** based on customer demographi
 - Best-performing model: **XGBoost Regressor**  
 - Achieved **high prediction accuracy** with significant improvement over baseline Linear Regression.  
 - Key insights: **smoking, BMI, and age** are major factors influencing premium costs.  
-
-## 📂 Repository Structure  
